@@ -1,0 +1,6 @@
+Stage,Rows,Dropped_This_Stage,Pct_Of_Raw,Note
+0_raw_combined,1067371,0,100.0,Both sheets concatenated
+1_drop_cancellations,1047877,19494,98.17,Invoice codes starting with 'C'
+2_drop_nonpositive_quantity,1044420,3457,97.85,Quantity <= 0 (returns / adjustments)
+3_drop_nonpositive_price,1041670,2750,97.59,UnitPrice <= 0 (adjustments / errors)
+4_kept_null_customerid,1041670,0,97.59,"236,121 rows have null CustomerID — kept for revenue/order metrics; filtered out only when computing customer-level metrics"
