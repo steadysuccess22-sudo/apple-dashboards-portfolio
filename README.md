@@ -1,7 +1,10 @@
 <div align="center">
 
-# Apple Data Analyst Portfolio
-### Two Tableau dashboards. Two real datasets. Every decision in the open.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1F77B4,100:0F172A&height=220&section=header&text=Apple%20Data%20Analyst%20Portfolio&fontSize=52&fontColor=ffffff&animation=fadeIn)
+
+<a href="https://github.com/steadysuccess22-sudo/apple-dashboards-portfolio">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Designed+for+non-technical+stakeholders;Manual+Tableau+craft+%2B+AI-accelerated+pipeline;Every+metric+definition+defensible;Two+production-quality+dashboards+in+one+week&font=Fira+Code&size=20&color=1F77B4&duration=3500&pause=900&center=true&width=720&height=45" alt="Animated tagline rotating through portfolio value props" />
+</a>
 
 <br>
 
@@ -19,7 +22,9 @@
 
 <br>
 
-<img src="screenshots/dashboard1_full.png" alt="Financial Performance & Variance Dashboard" width="49%"/>&nbsp;<img src="screenshots/dashboard2_full.png" alt="Operational Metrics & Pipeline Health Dashboard" width="49%"/>
+### 📊 Click a dashboard to open it live
+
+[<img src="screenshots/dashboard1_full.png" alt="Financial Performance & Variance Dashboard — click to open live in Tableau Public" width="49%"/>](https://public.tableau.com/views/dashboard1_financial_variance/FinancialPerformanceVarianceDashboard) [<img src="screenshots/dashboard2_full.png" alt="Operational Metrics & Pipeline Health Dashboard — click to open live in Tableau Public" width="49%"/>](https://public.tableau.com/views/dashboard2_operational_metrics/OperationalMetricsPipelineHealthDashboard)
 
 </div>
 
@@ -245,5 +250,9 @@ Data Analyst · NLP & AI Automation
 *Built for Apple's Data Analyst & AI Automation Specialist position. All data sources public. No proprietary information.*
 
 ⭐ **If this portfolio earned a few seconds of your attention, that's the whole job done right.**
+
+<br><br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1F77B4&height=120&section=footer)
 
 </div>
