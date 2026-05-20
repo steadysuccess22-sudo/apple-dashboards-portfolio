@@ -1,7 +1,7 @@
 # Apple Data Analyst Portfolio — Financial Variance & Operational Metrics Dashboards
 
-> Built for Apple Data Analyst & AI Automation Specialist (Posting #210265, Req #37276997).
-> Submitted via Aquent — May 2026.
+> Built for Apple Data Analyst & AI Automation Specialist position.
+> May 2026.
 
 ## 🔗 Live Dashboards
 - **[Financial Performance & Variance Dashboard](https://public.tableau.com/views/dashboard1_financial_variance/FinancialPerformanceVarianceDashboard)** — 5 KPIs · 5 analytical charts · Sample-Superstore dataset
